@@ -1,0 +1,19 @@
+Below programs in anonymous function & IIFE.
+
+A)Print odd numbers in an array
+B)Convert all the strings to title caps in a string array
+C)Sum of all numbers in an array
+D)Return all the prime numbers in an array
+E)Return all the palindromes in an array
+F)Return median of two sorted atrrays of the same size
+G)remove duplicate from an array
+H)Rotate an array by K times.
+
+
+Below programs in arrow functions.
+
+A)Print odd numbers in an array
+B)Convert all the strings to title caps in a string array
+C)Sum of all numbers in an array
+D)Return all the prime numbers in an array
+E)Return all the palindromes in an array
